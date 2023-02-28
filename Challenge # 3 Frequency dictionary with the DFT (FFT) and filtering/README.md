@@ -1,4 +1,6 @@
-# Subject and Objective
+# Frequency dictionary with the DFT (FFT) and filtering
+
+## Subject and Objective
 
 The objective is:
 
