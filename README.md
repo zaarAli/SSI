@@ -10,5 +10,6 @@ The challenges I have implemented so far include:
 - Challenge # 4: Canny-Deriche Filter Implementation
 - Challenge # 5: Segment Primitives
 - Challenge # 6: Comparison of Fourier and Cosine Transform for Image Compression
+- Challenge # 7: Texture identification
 
 I have included code, data, and results for each challenge, and I am constantly updating the repository as I progress through the subject. Feel free to explore and use this repository as a resource for your own work in the field of scene segmentation and interpretation.
